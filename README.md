@@ -1,0 +1,2 @@
+# BeautyScript
+collection beauty scripts
